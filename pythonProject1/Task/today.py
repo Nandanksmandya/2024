@@ -21,18 +21,19 @@
 #
 # print(dic)
 
-names = 'python developer'
-a = names.replace(" ","")
-print(a)
-dic = {}
+# names = 'python developer'
+# a = names.replace(" ","")
+# print(a)
+# dic = {}
+#
+# for element in a:
+#     if element in dic:
+#         dic[element] += 1
+#     else:
+#         dic[element] = 1
+#
+# print(dic)
+# print(a[::-1])
+# p = (reversed(a))
 
-for element in a:
-    if element in dic:
-        dic[element] += 1
-    else:
-        dic[element] = 1
-
-print(dic)
-print(a[::-1])
-p = (reversed(a))
 
